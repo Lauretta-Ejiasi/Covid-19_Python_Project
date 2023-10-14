@@ -9,6 +9,7 @@ In this project i demonstrated my knowledge on:
 
 The dataset for this project was collected from: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
 (https://github.com/CSSEGISandData/COVID19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
+
 This dataset contains latest data about spread of Covid-19 including Location, Confirmed cases, Deaths and Recovered cases. This information was provided date wise in .csv files. I downloaded all the.csv files but chose two files for a duration because i performed comparative analysis of two durations that allowed me form a hypothesis/idea, perform analysis and justified the final findings using K-Means clustering. I selected four datasets durations for our comparative analysis which are;
 - Current Data: 01-01-2022 and 08-01-2022
 - Previous Data: 01-01-2021 and 08-01-2021
