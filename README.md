@@ -20,3 +20,6 @@ This project provides baseline analysis using K-Means clustering. I also include
   
 
 This dataset is also available on Kaggle - https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019- dataset/data# (https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/data)
+
+Below is the link to the actual Jupyter notebook project;
+http://localhost:8888/notebooks/Covid%2019%202021%20-%20Part%20A.ipynb
